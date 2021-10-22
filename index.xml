@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Dallant - Academic Homepage</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://justin-dallant.github.io/</link>
+      <atom:link href="https://justin-dallant.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Justin Dallant - Academic Homepage</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2235de12755eaa129658bbd355b3a21_10499_512x512_fill_lanczos_center_3.png</url>
+      <url>https://justin-dallant.github.io/media/icon_hua2235de12755eaa129658bbd355b3a21_10499_512x512_fill_lanczos_center_3.png</url>
       <title>Justin Dallant - Academic Homepage</title>
-      <link>https://example.com/</link>
+      <link>https://justin-dallant.github.io/</link>
     </image>
     
     <item>
       <title>Approximability of (Simultaneous) Class Cover for Boxes</title>
-      <link>https://example.com/publication/approx-class-cover/</link>
+      <link>https://justin-dallant.github.io/publication/approx-class-cover/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/approx-class-cover/</guid>
+      <guid>https://justin-dallant.github.io/publication/approx-class-cover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</title>
-      <link>https://example.com/publication/pq-algorithms/</link>
+      <link>https://justin-dallant.github.io/publication/pq-algorithms/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pq-algorithms/</guid>
+      <guid>https://justin-dallant.github.io/publication/pq-algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESA 2021: An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</title>
-      <link>https://example.com/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</link>
+      <link>https://justin-dallant.github.io/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</guid>
+      <guid>https://justin-dallant.github.io/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCCG 2021: Approximability of (Simultaneous) Class Cover for Boxes</title>
-      <link>https://example.com/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</link>
+      <link>https://justin-dallant.github.io/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</guid>
+      <guid>https://justin-dallant.github.io/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCCG 2021: Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</title>
-      <link>https://example.com/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</link>
+      <link>https://justin-dallant.github.io/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</guid>
+      <guid>https://justin-dallant.github.io/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</title>
-      <link>https://example.com/publication/instance-optimal-rect-vis/</link>
+      <link>https://justin-dallant.github.io/publication/instance-optimal-rect-vis/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/instance-optimal-rect-vis/</guid>
+      <guid>https://justin-dallant.github.io/publication/instance-optimal-rect-vis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://justin-dallant.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://justin-dallant.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -139,9 +139,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://justin-dallant.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://justin-dallant.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -268,9 +268,9 @@ Three
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://justin-dallant.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://justin-dallant.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
