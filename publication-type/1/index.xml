@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Justin Dallant - Academic Homepage</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2235de12755eaa129658bbd355b3a21_10499_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Approximability of (Simultaneous) Class Cover for Boxes</title>
+      <link>https://example.com/publication/approx-class-cover/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/approx-class-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</title>
+      <link>https://example.com/publication/pq-algorithms/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pq-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</title>
+      <link>https://example.com/publication/instance-optimal-rect-vis/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/instance-optimal-rect-vis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

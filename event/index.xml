@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Justin Dallant - Academic Homepage</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2235de12755eaa129658bbd355b3a21_10499_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>ESA 2021: An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</title>
+      <link>https://example.com/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/esa-2021-an-instance-optimal-algorithm-for-bichromatic-rectangular-visibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCCG 2021: Approximability of (Simultaneous) Class Cover for Boxes</title>
+      <link>https://example.com/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/cccg-2021-approximability-of-simultaneous-class-cover-for-boxes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCCG 2021: Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</title>
+      <link>https://example.com/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/cccg-2021-effciently-stabbing-convex-polygons-and-variants-of-the-hadwiger-debrunner-p-q-theorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
