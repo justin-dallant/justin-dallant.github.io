@@ -22,14 +22,14 @@ body {
 }
 
 .leftcol {
-  flex: 25%;
+  flex: 30%;
   background-color: rgb(39,41,52);
   color: white;
   padding: 20px;
 }
 
 .rightcol {   
-  flex: 75%;
+  flex: 70%;
   background-color: rgb(35,37,46);
   color: white;
   padding: 20px;
@@ -74,15 +74,12 @@ a:active {
          <a href="https://dblp.org/pid/259/1483.html"><img src="resources/dblp-icon.png" alt="DBLP Icon" style="width:24px; position: relative; top: 4px"></a>
          <a href="https://orcid.org/0000-0001-5539-9037"><img src="resources/orcid-icon.png" alt="ORCID logo" style="width:24px; position: relative; top: 4px"></a>
         </h2>
-    <p style="text-align:center">[first name].[last name][at]ulb.be</p>
-    <img src="resources/meee.jpg" alt="Picture of me" style="width:100%; max-width:400px; padding: 2%; text-align:center">
-    <h4>PhD Student in Computer Science, <a href="https://algo.ulb.be/">Algorithms Research Group, Université libre de Bruxelles</a></h4>
+    <p style="text-align:center">justindallant[at]cs[dot]au[dot]dk </p>
+    <div style="text-align: center;">
+    <img src="resources/meee.jpg" alt="Picture of me" style="width:75%; max-width:400px; padding: 2%; text-align:center">
+    </div>
+    <h4>Postdoctoral researcher, Computer Science Department, Aarhus University</h4>
     
-    <p>I am (since October 2020) a PhD student in computer science at ULB under the supervision of 
-        <a href="http://homepages.ulb.ac.be/~jcardin/">Jean Cardinal</a> and 
-        <a href="https://john.iacono.web.ulb.be/">John Iacono</a> 
-        (funded by the F.N.R.S. with a FRIA grant). I work on questions around fine-grained complexity and optimality 
-        for geometric algorithms and data structures.</p>
     <h3>Interests</h3>
      <ul>
       <li> Discrete and Computational Geometry </li>
@@ -96,48 +93,61 @@ a:active {
   
   <div class="rightcol">
 
-    <h2>Education</h2>
-    <ul>
-    <li> <b>PhD in Computer Science, 2020-2024 (ongoing)</b>  -- Université libre de Bruxelles (ULB)</li>
-    <li> <b>MSc in Computer Science, 2020</b>  -- ETH Zürich</li>
-    <li> <b>MSc in Engineering, 2020</b>  -- Télecom Paristech</li>
-    </ul>
+
+      I am a postdoctoral researcher at Aarhus University (Department of Computer Science).
+      <p>
+          I did my PhD in computer science at the Université libre de Bruxelles under the supervision of
+          <a href="http://homepages.ulb.ac.be/~jcardin/">Jean Cardinal</a> and
+          <a href="https://john.iacono.web.ulb.be/">John Iacono</a>
+          (funded by the F.N.R.S. with a FRIA grant). I defended my thesis on September 9, 2024.  I studied complexity bounds (both upper and lower) and optimality
+          for geometric algorithms and data structures.
+      </p>
 
 
-    <h2>Teaching</h2>
-    <p>I have been a teaching assistant for the following courses.</p>
-    <ul>
-        <li> Algorithms 2 (INFO-F203) at ULB </li>
-        <li> Programming Languages 2 (INFO-F202) at ULB </li>
-        <li> Software Engineering and Project Management (INFO-F307) at ULB </li>
-        <li> Algorithms and Data Structures at ETHZ </li>
-    </ul> 
-    
+      <h2 style="margin-top: 35px; margin-bottom: -7px">Publications</h2>
+      <p><a href="https://doi.org/10.4230/LIPIcs.ESA.2024.44">An Optimal Randomized Algorithm for Finding the Saddlepoint</a>, with Frederik Haagensen, Riko Jacob, László Kozma and Sebastian Wild. ESA 2024.</p>
 
-    <h2 style="margin-top: 35px; margin-bottom: -7px">Publications</h2>
-    <p><a href="https://arxiv.org/abs/2402.13107">An Improved Lower Bound on the Number of Pseudoline Arrangements</a>, with Fernando Cortés Kühnast, Stefan Felsner and Manfred Scheucher To be presented at SOCG 2024. <br>
-      <small>
-        <ul style="margin-top:-15px;">This is a merge of the following two independent submissions:
-          <li><a href="https://arxiv.org/abs/2402.13923">Justin Dallant -- Improved Lower Bound on the Number of Pseudoline Arrangements</a> </li>
-          <li><a href="https://arxiv.org/abs/2402.13107v1">Fernando Cortés Kühnast, Stefan Felsner, and Manfred Scheucher -- An Improved Lower Bound on the Number of Pseudoline Arrangements</a></li>
-        </ul>
-      </small>
-    </p>
-    <p><a href="https://arxiv.org/abs/2311.12471">A General Technique for Searching in Implicit Sets via Function Inversion</a>, with Boris Aronov, Jean Cardinal and John Iacono. SOSA@SODA 2024.</p>
-    <p><a href="https://arxiv.org/abs/2310.16801">Finding the saddlepoint faster than sorting</a>, with Frederik Haagensen, Riko Jacob, László Kozma and Sebastian Wild. SOSA@SODA 2024.</p>
-    <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-43587-4_3">The Rectilinear Convex Hull of Line Segments</a>, with Carlos Alegría, Pablo Pérez-Lantero, and Carlos Seara. FCT 2023.</p>
-    <p><a href="https://doi.org/10.4230/LIPIcs.ESA.2022.39">Conditional Lower Bounds for Dynamic Geometric Measure Problems</a>, with John Iacono. ESA 2022.</p>
-    <p><a href="https://doi.org/10.4230/LIPIcs.FUN.2022.13">How Fast Can We Play Tetris Greedily with Rectangular Pieces?</a>, with John Iacono. FUN 2022.</p>
-    <p><a href="https://projects.cs.dal.ca/cccg2021/proceedings/">Approximability of (Simultaneous) Class Cover for Boxes</a>, with Jean Cardinal and John Iacono. CCCG 2021.</p>
-    <p><a href="https://projects.cs.dal.ca/cccg2021/proceedings/">Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</a>, with Patrick Schnider. CCCG 2021.</p>
-    <p><a href="https://doi.org/10.4230/LIPIcs.ESA.2021.24">An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</a>, with Jean Cardinal and John Iacono. ESA 2021.</p>
+      <p>
+          <a href="https://arxiv.org/abs/2402.13107">An Improved Lower Bound on the Number of Pseudoline Arrangements</a>, with Fernando Cortés Kühnast, Stefan Felsner and Manfred Scheucher To be presented at SOCG 2024. <br>
+          <small>
+              <ul style="margin-top:-15px;">
+                  This is a merge of the following two independent submissions:
+                  <li><a href="https://arxiv.org/abs/2402.13923">Justin Dallant -- Improved Lower Bound on the Number of Pseudoline Arrangements</a> </li>
+                  <li><a href="https://arxiv.org/abs/2402.13107v1">Fernando Cortés Kühnast, Stefan Felsner, and Manfred Scheucher -- An Improved Lower Bound on the Number of Pseudoline Arrangements</a></li>
+              </ul>
+          </small>
+      </p>
+      <p><a href="https://doi.org/10.1137/1.9781611977936.20">A General Technique for Searching in Implicit Sets via Function Inversion</a>, with Boris Aronov, Jean Cardinal and John Iacono. SOSA 2024.</p>
+      <p><a href="https://doi.org/10.1137/1.9781611977936.17">Finding the saddlepoint faster than sorting</a>, with Frederik Haagensen, Riko Jacob, László Kozma and Sebastian Wild. SOSA 2024.</p>
+      <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-43587-4_3">The Rectilinear Convex Hull of Line Segments</a>, with Carlos Alegría, Pablo Pérez-Lantero, and Carlos Seara. FCT 2023.</p>
+      <p><a href="https://doi.org/10.4230/LIPIcs.ESA.2022.39">Conditional Lower Bounds for Dynamic Geometric Measure Problems</a>, with John Iacono. ESA 2022.</p>
+      <p><a href="https://doi.org/10.4230/LIPIcs.FUN.2022.13">How Fast Can We Play Tetris Greedily with Rectangular Pieces?</a>, with John Iacono. FUN 2022.</p>
+      <p><a href="https://projects.cs.dal.ca/cccg2021/proceedings/">Approximability of (Simultaneous) Class Cover for Boxes</a>, with Jean Cardinal and John Iacono. CCCG 2021.</p>
+      <p><a href="https://projects.cs.dal.ca/cccg2021/proceedings/">Effciently Stabbing Convex Polygons and Variants of the Hadwiger-Debrunner (p, q)-Theorem</a>, with Patrick Schnider. CCCG 2021.</p>
+      <p><a href="https://doi.org/10.4230/LIPIcs.ESA.2021.24">An Instance-Optimal Algorithm for Bichromatic Rectangular Visibility</a>, with Jean Cardinal and John Iacono. ESA 2021.</p>
 
-    <h2 style="margin-top: 0px; margin-bottom: -7px">Preprints</h2>
-    <p><a href="https://arxiv.org/abs/2401.06512">An Optimal Randomized Algorithm for Finding the Saddlepoint</a>, with Frederik Haagensen, Riko Jacob, László Kozma and Sebastian Wild.</p>
+      <h2 style="margin-top: 20x; margin-bottom: -7px">Preprints</h2>
+      <p>Improved Bound on the Number of Pseudoline Arrangements via the Zone Theorem. 2024.</p>
 
 
+      <h2 style="margin-top: 35px; margin-bottom: -7px">Teaching</h2>
+      <p>I have been a teaching assistant for the following courses.</p>
+      <ul>
+          <li> Algorithms 2 (INFO-F203) at ULB </li>
+          <li> Programming Languages 2 (INFO-F202) at ULB </li>
+          <li> Software Engineering and Project Management (INFO-F307) at ULB </li>
+          <li> Algorithms and Data Structures at ETHZ </li>
+      </ul>
 
-</div>
+      <h2 style="margin-top: 35px; margin-bottom: -7px">Education</h2>
+      <ul>
+          <li> <b>PhD in Computer Science, 2020-2024</b>  -- Université libre de Bruxelles (ULB)</li>
+          <li> <b>MSc in Computer Science, 2020</b>  -- ETH Zürich</li>
+          <li> <b>MSc in Engineering, 2020</b>  -- Télecom Paristech</li>
+      </ul>
+
+
+  </div>
 </div>
 
 
